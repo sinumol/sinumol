@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sinumol
-- 👀 I’m interested in ...bioinformtaics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently doing research in clinical genomcis
+- 💞️ I’m looking to build bioinformatic models to handle the biological data more efficient way. 
 
 <!---
 sinumol/sinumol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
